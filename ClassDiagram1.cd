@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AudienceBehavier" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAA=</HashCode>
+      <FileName>Assets\Animations\AudienceBehavier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combat" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kkQAABBEACBMSYIAAAAAAAAAACAAIQAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Animations\Combat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioManager" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAQAEACAAAACEBNAAAIAIABIgAAAgAAAAAAIBIEg=</HashCode>
+      <FileName>Assets\AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioManagerMenu" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\AudioManagerMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraRotate" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Block Boy Pack\_demo\scripts\CameraRotate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterSwitch" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBvGAAAQAAAAAAAAAAAAAAAhn8AAAAA7h0AAAA=</HashCode>
+      <FileName>Assets\Block Boy Pack\_demo\scripts\CharacterSwitch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoxingRingScript" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\BoxingRingScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraScript" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAAACAEQAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CameraScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadingScene" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQCAAAAAIAAAAAAAAAAAAAAAAAAgAAAABAIA=</HashCode>
+      <FileName>Assets\LoadingScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAgAAAAAAAYAgAAEAAAAEAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptionsScreen" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAQAACAQIiAAAAAFBAAAAAICAQAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\OptionsScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestItem" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OptionsScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="@PlayerInput" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAABAAAAAACBABAwAAAGIEAAAgCABQgAA=</HashCode>
+      <FileName>Assets\PlayerInput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ReviveBar" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAKACAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>Assets\ReviveBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIalgorithm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAIggACAAAAAAAAAAAQAIAAACAIgBCAABAACAIEQ=</HashCode>
+      <FileName>Assets\Scripts\AI\AIalgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIcollision" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIAAAAAgICAAQAQACAAAAAAAAAAAAIAAQAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AI\AIcollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIcombat" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgSBgBREACBJCYAgAEAAAAAAACAAIAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AI\AIcombat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIhealth" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FOQAgAEIACAAAEQkAAAAAAAEAAAEAAAAAEAAkAARAAA=</HashCode>
+      <FileName>Assets\Scripts\AI\AIhealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AImovement" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCQAACAAkCAAQkAEAgCgCaEAAAAAEAAAYABASCCAAAA=</HashCode>
+      <FileName>Assets\Scripts\AI\AImovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIstaminaManager" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAACAAAAAAAAAAAIAAAAAAEAAAgCAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AI\AIstaminaManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collision" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAggCCgAQAAAAAAAAAAAAAAAAIAAQAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hKWCgAxGACYC4BYiIEAkUIUkxCIoAIEJMAJxXUEABQM=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputManager" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEgAAAAAAAAAAYAAAAAAAAAAIgAAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAACAIAAAAAAAAAAACAAAAAAAAAAAAAAhAAIA=</HashCode>
+      <FileName>Assets\Scripts\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerHealth" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DMQCQAMIASAAAAAgAAAAABQEAAAEABAEAEAAkIAQAIA=</HashCode>
+      <FileName>Assets\Scripts\PlayerHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerInputEvents" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAAgEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerInputEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerLook" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAACAAAAAAAIAAAgAAAAQAAAAAAAIAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\PlayerLook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMotor" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAQIEAAAgAAAAAAAAAAQAIAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMotor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaminaManager" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAQACAAAEAAAAAAAIAAAAAAEAAAACAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\StaminaManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraScriptSplit" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAAACAEQAAAAAAAAAQAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\SplitScreen\CameraScriptSplit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionSplit1" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAggCCgAQAAAAAAAAAAAAAAAAIAAQAAAAAAAAIA=</HashCode>
+      <FileName>Assets\SplitScreen\CollisionSplit1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionSplit2" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAggCCgAQAAAAAAAAAAAAAAAAIAAQAAAAAAAAIA=</HashCode>
+      <FileName>Assets\SplitScreen\CollisionSplit2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CombatSplit1" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kkQAABBEACBMSYIAAAAAAAAAACAAIQAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\SplitScreen\CombatSplit1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CombatSplit2" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kkQAABBEACBMSYIAAAAAAAAAACAAIQAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\SplitScreen\CombatSplit2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager2" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>pKWCgAxGECYA4hYiIEAkUIUsxCIoAIEIMAJxXUEABQM=</HashCode>
+      <FileName>Assets\SplitScreen\GameManager2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputManagerSplit1" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEgAAAAAAAAAAYAAAAAAAAAAIgAAAAAAACEA=</HashCode>
+      <FileName>Assets\SplitScreen\InputManagerSplit1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputManagerSplit2" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEgAAAAAAAAAAYAAAAAAAAAAIgAAAAAAACEA=</HashCode>
+      <FileName>Assets\SplitScreen\InputManagerSplit2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerHealthSplit1" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DMQCQAMIASAAAAAgAAAAABQEAAAEABAEAEAAkIAQAIA=</HashCode>
+      <FileName>Assets\SplitScreen\PlayerHealthSplit1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerHealthSplit2" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DMQCQAMIASAAAAAgAAAAABQEAAAEABAEAEAAkIAQAIA=</HashCode>
+      <FileName>Assets\SplitScreen\PlayerHealthSplit2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMotorSplit1" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAQIEAAAgAAAAAAAAAAQAIAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\SplitScreen\PlayerMotorSplit1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMotorSplit2" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAQIEAAAgAAAAAAAAAAQAIAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\SplitScreen\PlayerMotorSplit2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplitScreenOption" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAEAAKAAAEAAAAAIRAIAAAAAAAAAgIAAAAAAAQA=</HashCode>
+      <FileName>Assets\SplitScreenOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplitScreenOptionMenu" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SplitScreenOptionMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticData" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\StaticData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

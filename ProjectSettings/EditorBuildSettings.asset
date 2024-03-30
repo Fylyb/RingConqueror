@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameMenu.unity
+    guid: b35336ef940774b4f929f388538ab743
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen1.unity
+    guid: c95008b0bdecb1c418c5006877b57a83
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level01.unity
+    guid: 02599b67cca781a49a2ed8469d2532ef
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen2.unity
+    guid: 24e84ab69950e4149b17c265b071395f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level02.unity
+    guid: 0561f04746fb0ff408a7756cc06e0bf5
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen3.unity
+    guid: acc74da6b2373c84b82874f388183a21
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level03.unity
+    guid: f4fdde452ff961849893b2343f47b2d2
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen4.unity
+    guid: 433c12c257079274f96dcac45e1e2336
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level04.unity
+    guid: 5cfdef4e8b22a7e40848becbe2fcb48c
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen5.unity
+    guid: 55d49ca9841094a4e93788d301289e24
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level05.unity
+    guid: ec3fd29fdb6a2ac46ab4fee337199498
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen6.unity
+    guid: c09adc80f7a7ee84399b989c5149d206
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level06.unity
+    guid: 2e9e0eb6fb593ce48ab0ee7e50260824
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen7.unity
+    guid: 6c388061c7dc16640bb3d97770f6eb28
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level07.unity
+    guid: 0bc56cda0b56d6a46826d9f08aa43ff2
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen8.unity
+    guid: f1c351d700aae3545b5e2fdbc8338f52
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level08.unity
+    guid: 29318293f54de6348bda0eb27a1b03df
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen9.unity
+    guid: 930a12f912e076642a08fc1026974897
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level09.unity
+    guid: 7b96404256c839b4c875ce95ea48a4a7
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen10.unity
+    guid: 63b10035e9621e645a68412294e1a754
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level10.unity
+    guid: 8643ce211c31fdd4089e25371b8c876f
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreen11.unity
+    guid: 9b539498bccb2954e9bf639af181183c
+  - enabled: 1
+    path: Assets/Scenes/FinishScreen.unity
+    guid: 90ff66643faad2945abbd3e5253da3f3
+  - enabled: 1
+    path: Assets/Scenes/SplitScreen.unity
+    guid: 184bd42ab2239f94ea008a675c923b71
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreens/LoadingScreenSplitScreen.unity
+    guid: 3690c17bd91638445a3f0999b3685f06
+  m_configObjects: {}
